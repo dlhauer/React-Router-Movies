@@ -70,3 +70,9 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+.active {
+  background-color: lightblue;
+  border-radius: 5px;
+  padding: 10px;
+}
